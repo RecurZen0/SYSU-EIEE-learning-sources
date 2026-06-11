@@ -22,13 +22,13 @@
 			{\zihao{1} \bfseries 实\ 验\ 报\ 告} \\
 		\end{center}
 		\begin{tabularx}{\textwidth}{c X c X c p{4.0cm}}
-			院系&电子与信息工程学院&学号&XXXXXXXX&审批&\\
+			院系&电子与信息工程学院&学号&25308128&审批&\\
 			\cline{2-2}\cline{4-4}\cline{6-6}
-			专业&电子信息类&姓名&XXX&&\\
+			专业&电子信息类&姓名&马瑞麟&&\\
 			\cline{2-2}\cline{4-4}
 		\end{tabularx} \\
 		\begin{tabularx}{\textwidth}{l X r}	
-			{\heiti 实验名称：XXXXXXXXX}&&{\heiti 实验日期：XXXX年XX月XX日}
+			{\heiti 实验名称：实验九 有源滤波电路}&&{\heiti 实验日期：2026年6月4日}
 		\end{tabularx}
 	\end{minipage}
 }
@@ -52,31 +52,38 @@
 \PageBorder
 
 % --- 定义便捷样式 ---
-\usepackage{titlesec}
 \usepackage{changepage}
+\usepackage{indentfirst}
+\usepackage{titlesec}
+
 % 节标题样式
-\titleformat{\section}{\bfseries \zihao{-4}}{\chinese{section}、}{0.5em}{}
-\titleformat{\subsection}{\bfseries \zihao{-4}}{\arabic{subsection}.}{0.5em}{}
+\titleformat{\section}{\bfseries \zihao{-4}}{\chinese{section}、}{0.5em}{}%
 \titlespacing{\section}{0em}{12pt}{6pt}
+\titleformat{\subsection}{\bfseries \zihao{-4}}{\arabic{subsection}.}{0.5em}{}%
 \titlespacing{\subsection}{2em}{10pt}{5pt}
-% 缩进正文样式
-\newenvironment{H1}
-{\begin{adjustwidth}{2em}{0em}}
-{\end{adjustwidth}}
-\newenvironment{H2}
-{\begin{adjustwidth}{4em}{0em}}
-{\end{adjustwidth}}
-\newenvironment{H3}
-{\begin{adjustwidth}{6em}{0em}}
-{\end{adjustwidth}}
+\titleformat{\subsubsection}{\bfseries \zihao{-4}}{\arabic{subsubsection}.}{0.5em}{}%
+\titlespacing{\subsubsection}{4em}{10pt}{5pt}
+
+% 可嵌套的章节环境
+\newsavebox{\sectiontitlebox}
+\newenvironment{Section}[1]
+{\par\section{#1}\par\addtolength{\leftskip}{2em}}
+{\par\addtolength{\leftskip}{-2em}}
+\newenvironment{Subsection}[1]
+{\par\subsection{#1}\par\addtolength{\leftskip}{2em}}
+{\par\addtolength{\leftskip}{-2em}}
+\newenvironment{Subsubsection}[1]
+{\par\subsubsection{#1}\par\addtolength{\leftskip}{2em}}
+{\par\addtolength{\leftskip}{-2em}}
 \usepackage{enumitem}	% 列表样式
+\usepackage{amsmath}   % 提供 \text{} 命令
 
 % --- 图表与引用管理 ---
 \usepackage{float}      % 提供 [H] 选项，强制图表不浮动（严格跟随行文）
 \usepackage{caption}    % 图表标题格式自定义
 \usepackage{subcaption} % 提供便捷的子图排版环境 subfigure
 % 图表编号前缀：实验编号X
-\newcommand{\expnum}{X}	% <----- 每次实验请修改这个变量使之等于实验编号
+\newcommand{\expnum}{9}	% <----- 每次实验请修改这个变量使之等于实验编号
 % 修改主图和主表的编号格式为 X-Y (如 1-1, 1-2)
 \renewcommand{\thefigure}{\expnum-\arabic{figure}}
 \renewcommand{\thetable}{\expnum-\arabic{table}}
@@ -95,7 +102,3 @@
 \crefname{appfigure}{附图}{附图}
 \crefname{apptable}{附表}{附表}
 \crefname{equation}{式}{式} % 公式引用
-% 配置多重引用时的中文连接词 (例如：图 1-1、图 1-2 和 图 1-3)
-\newcommand{\crefpairconjunction}{ 和 }
-\newcommand{\crefmiddleconjunction}{、}
-\newcommand{\creflastconjunction}{ 和 }

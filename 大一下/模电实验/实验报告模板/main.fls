@@ -1,0 +1,278 @@
+PWD C:/Users/马瑞麟/Desktop/SYSU-EIEE-learning-sources/大一下/模电实验/实验报告模板
+INPUT d:/Program Files/texlive/2026/texmf.cnf
+INPUT d:/Program Files/texlive/2026/texmf-dist/web2c/texmf.cnf
+INPUT d:/Program Files/texlive/2026/texmf-var/web2c/xetex/xelatex.fmt
+INPUT main.tex
+OUTPUT main.log
+INPUT ./settings/setting.tex
+INPUT ./settings/setting.tex
+INPUT ./settings/setting.tex
+INPUT ./settings/setting.tex
+INPUT settings/setting.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/ctex/ctexart.cls
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/ctex/ctexart.cls
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/ctex/config/ctexbackend.cfg
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/ctex/config/ctexbackend.cfg
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/ctex/config/ctexbackend.cfg
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/l3kernel/expl3.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/l3kernel/expl3.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/ctex/engine/ctex-engine-xetex.def
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/ctex/ctexhook.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/ctex/ctexhook.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/ctex/ctexpatch.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/ctex/ctexpatch.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/base/fix-cm.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/base/fix-cm.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/base/ts1enc.def
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/base/article.cls
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/base/article.cls
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/base/size10.clo
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/base/size10.clo
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/base/size10.clo
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/ctex/engine/ctex-engine-xetex.def
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/cjk/texinput/CJKfntef.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/xelatex/xecjk/xeCJKfntef.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/fontspec/fontspec.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/fontspec/fontspec.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/base/fontenc.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/base/fontenc.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/fontspec/fontspec.cfg
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/fontspec/fontspec.cfg
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/fontspec/fontspec.cfg
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/hyperref/hyperref.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/zhnumber/zhnumber.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/zhnumber/zhnumber.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese-article.def
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese-article.def
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/ctex/ctex-c5size.clo
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/ctex/ctex-c5size.clo
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-windows.def
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-windows.def
+INPUT c:/Windows/Fonts/msyh.ttc
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/ctex/config/ctex.cfg
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/ctex/config/ctex.cfg
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/iftex/ifvtex.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/iftex/ifvtex.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/iftex/iftex.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/iftex/iftex.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/xcolor/xcolor.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/xcolor/xcolor.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/xcolor/xcolor.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/graphics-def/xetex.def
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/graphics-def/xetex.def
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/graphics-def/xetex.def
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/graphics/mathcolor.ltx
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/graphics/mathcolor.ltx
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/graphics/mathcolor.ltx
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/tools/tabularx.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/tools/tabularx.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/tools/array.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/tools/array.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/graphics/trig.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/graphics/trig.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/lastpage/lastpage.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/lastpage/lastpage.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/lastpage/lastpage2e.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/lastpage/lastpage2e.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/lastpage/lastpagemodern.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/lastpage/lastpagemodern.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/pgf.revision.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/pgf.revision.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.def
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.def
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx.def
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfint.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.code.tex
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/changepage/changepage.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/changepage/changepage.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/tools/indentfirst.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/tools/indentfirst.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/titlesec/titlesec.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/titlesec/titlesec.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/enumitem/enumitem.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/enumitem/enumitem.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/float/float.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/float/float.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/caption/caption.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/caption/caption.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/caption/caption3.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/caption/caption3.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/caption/subcaption.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/caption/subcaption.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/cleveref/cleveref.sty
+INPUT d:/Program Files/texlive/2026/texmf-dist/tex/latex/cleveref/cleveref.sty
+INPUT ./main.aux
+INPUT ./main.aux
+INPUT main.aux
+OUTPUT main.aux
+INPUT ./figures/example1.jpg
+INPUT ./figures/example1.jpg
+INPUT ./figures/example1.jpg
+INPUT ./figures/example2.jpg
+INPUT ./figures/example2.jpg
+INPUT ./figures/example2.jpg
+INPUT ./figures/example3.jpg
+INPUT ./figures/example3.jpg
+INPUT ./figures/example3.jpg
+INPUT ./settings/logo.png
+INPUT ./settings/logo.png
+INPUT ./settings/logo.png
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT d:/Program Files/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+OUTPUT main.xdv
+INPUT ./settings/logo.png
+INPUT ./settings/logo.png
+INPUT ./settings/logo.png
+INPUT ./figures/example4.jpg
+INPUT ./figures/example4.jpg
+INPUT ./figures/example4.jpg
+INPUT ./settings/logo.png
+INPUT ./settings/logo.png
+INPUT ./settings/logo.png
+INPUT main.aux

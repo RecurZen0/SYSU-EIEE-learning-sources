@@ -1,9 +1,7 @@
 % 编译使用xelatex，需要两次，推荐使用latexmk -xelatex -synctex=1
 %  -interaction=nonstopmode
 %  使用方法:
-%  \section{节标题} 					--> 一、节标题
-%  \subsection{分点标题} 				--> 1.分点/步标题
-%  \begin{H1/2/3} ... \end{H1/2/3} 	--> 对应层级的缩进
+%  \begin{Section}{...} ...... \end{Section}
 \input{settings/setting}
 
 \begin{document}
@@ -14,18 +12,17 @@
 
 % 正文内容
 
-\section{实验目的}
-\begin{H1}
+\begin{Section}{实验目的}
 \begin{enumerate}
 	\item 目的一
 	\item 目的二
 \end{enumerate}
-\end{H1}
+\end{Section}
 
-\section{实验仪器}
+\begin{Section}{实验仪器}
+\end{Section}
 
-\section{实验原理}
-\begin{H1}
+\begin{Section}{实验原理}
 下面是普通的实验原理图，如\cref{fig:test1}。
 
 \begin{figure}[H]	% 这里必须是[H],不能用[htbp],不然会到处乱跑
@@ -57,23 +54,26 @@
     \caption{双图并列排版示例}
     \label{fig:multi}
 \end{figure}
-\end{H1}
+\end{Section}
 
-\section{实验内容}
-\subsection{第一步}
-\begin{H2}
+\begin{Section}{实验内容}
+\begin{Subsection}{第一步}
 连接电路...
 
 {\bfseries 结果分析...}
-\end{H2}
-\subsection{第二步}
+\end{Subsection}
+\begin{Subsection}{第2步}
+\end{Subsection}
+\begin{Subsection}{第2步}
+\end{Subsection}
+\end{Section}
 
-\subsection{第三步}
+\begin{Section}{实验总结}
 
-\section{实验总结}
+\end{Section}
 
 \newpage
-\section{预习报告}
+\begin{Section}{预习报告}
 关于详细的测量数据，请查阅\cref{apptab:data1}与\cref{appfig:extra}。
 
 \begin{appfigure}[H]
@@ -96,5 +96,6 @@
         \hline
     \end{tabular}
 \end{apptable}
+\end{Section}
 
 \end{document}
